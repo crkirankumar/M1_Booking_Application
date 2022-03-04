@@ -15,7 +15,8 @@ Movie ticket booking System Project is a simple console application designed to 
 
 | ID | Description | Category | 
 | ----- | ----- | ------- | 
-|HLR01|Adding new records|technical|  
+|HLR01|Registration|technical|
+|HLR02|Insert movies|technical
 |HLR02|List of customer records|technical|
 |HLR03|Payment|technical|
 |HLR04|Exit|technical|   
